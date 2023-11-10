@@ -9,7 +9,7 @@ Follow here👇
 
 အောက်ကလင့်ခ်ကနေဝင်ပါ
 
-[![link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgeel/facefusion-Bypass-NSFW/blob/master/FacefusionBypass.ipynb)
+[![link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgeel/facefusion-Bypass-NSFW/blob/master/Facefusion%5BN%5DBypass.ipynb)
 
 
 
