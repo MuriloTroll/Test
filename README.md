@@ -7,11 +7,15 @@ I not own ...just editor for....colab
 
 Follow here👇
 
+[![Open in Anaconda Cloud]
+
+
 အောက်ကလင့်ခ်ကနေဝင်ပါ
 
 [![link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgeel/facefusion-Bypass-NSFW/blob/master/FacefusionBypass.ipynb)
-
-
+<a target="_blank" href="https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2F28a48b3e-4dc1-465e-ac78-6504f7606dea%2Fversions%2Fe270a93c-c36f-4e00-b542-092c215cb75b%2Ffiles%2Ffacefusion.ipynb">
+  <img src="https://static.anaconda.cloud/content/a22d04e8445b700f28937ab3231b8cded505d0395c63b7a269696722196d5415" width="160"/>
+</a>
 
 
 > Next generation face swapper and enhancer.
